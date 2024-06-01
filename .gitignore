@@ -3,3 +3,7 @@ __pycache__/
 main.py
 resources_rc.py
 UI_ui.py
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
